@@ -37,3 +37,15 @@
 
 ## ◼ 시스템 구성도
 <img src="https://user-images.githubusercontent.com/64197428/147849506-9eafd93e-acee-4882-813d-9a137a092fc1.png" width=70% height = 70%>
+## ◼ 참고 자료
+
+[1] FPN, https://herbwood.tistory.com/18
+
+[2] "시각장애인이라고 장례식서 빨간 옷 입을 순 없죠.",  https://www.hankookilbo.com/News/Read/A2020121013120000624
+
+[3] 당신도 어느날 갑자기 안 보일 수 있다…후천성이 90% , 
+https://www.hani.co.kr/arti/society/society_general/558762.html
+
+[4] 김태미, 조철현, “시각장애인의 의복행동에 대한 질적 연구”, 복식문화학회, p.82, 2016
+
+[5] https://www.youtube.com/watch?v=yqkISICHH-U
