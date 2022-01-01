@@ -37,6 +37,7 @@
 
 ## ◼ 시스템 구성도
 <img src="https://user-images.githubusercontent.com/64197428/147849506-9eafd93e-acee-4882-813d-9a137a092fc1.png" width=70% height = 70%>
+
 ## ◼ 참고 자료
 
 [1] FPN, https://herbwood.tistory.com/18
