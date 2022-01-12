@@ -235,7 +235,7 @@ def main():
                     
                     
                 f = open("/home/pi/Desktop/Project/TFODRPi/inform", 'w')
-                inform = "이        옷의 패턴은      " + pattern + "             이고" + "         이       옷의 색상은     "
+                inform = "이 옷의 패턴은 " + pattern + "이고" + "이 옷의 색상은 "
                 for key, value in colorProportion.items():
                     inform += key
                 inform += " 입니다"
